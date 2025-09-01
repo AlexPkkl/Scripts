@@ -2,7 +2,7 @@ local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
    Name = "Yay Cat Hub",
-   Icon = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw7Fj3GUONMG8SaEnAGBpqBCeKM61GakP1QmiB3X9TTJx-OBAjaPO1fkJ37jABfBXCFRw&usqp=CAU, -- Icon in Topbar. Can use Lucide Icons (string) or Roblox Image (number). 0 to use no icon (default).
+   Icon = , -- Icon in Topbar. Can use Lucide Icons (string) or Roblox Image (number). 0 to use no icon (default).
    LoadingTitle = "Yay Cat Hub IS BEST",
    LoadingSubtitle = "IDk... You IS COOL🐱‍🐉",
    Theme = "Bloom", -- Check https://docs.sirius.menu/rayfield/configuration/themes
